@@ -1,5 +1,6 @@
+Week of: 23rd March
 ## Sunday
-[[Chicken Mulligan Stew]]
+[[Chicken Mulligatawny Stew]]
 Ate: 
 
 ## Monday
@@ -7,24 +8,26 @@ Ate:
 Ate: 
 
 ## Tuesday
-[[Chinese Curry]]
+[[Chinese Chicken Curry]]
 Ate: 
 
 ## Wednesday
-
+[[15-Minutes Cheesy Lentil Tacos]]
 Ate: 
 
 ## Thursday
-[[Orzo Chicken Sausage & Sundried Tomato]]
+[[Cheesy Bolognese Hotpot]] Frozen*
 Ate: 
 
 ## Friday
-
+[[Orzo Chicken Sausage & Sundried Tomato]]
 Ate: 
 
 ## Saturday
-
+[[Sage & Onion Chicken Plaits]] 
+(use left over meat to make meatballs for lunches)
 Ate: 
 
 
-
+# Frozen Meal list
+- [ ] Cheesy Bolognese Hotpot
