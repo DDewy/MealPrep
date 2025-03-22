@@ -31,3 +31,6 @@ Ate:
 
 # Frozen Meal list
 - [ ] Cheesy Bolognese Hotpot
+**Singular meals**
+- [ ] Carbonara
+- [ ] Enchilada wrap thingys
